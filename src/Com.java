@@ -10,10 +10,8 @@ public class Com {
         this.email = email;
         this.body = body;
     }
-    @Override
-    public String toString() {
-        return "Com [body=" + body + ", email=" + email + ", id=" + id + ", name=" + name + "]";
-    }
+    
+    
     
     
     
